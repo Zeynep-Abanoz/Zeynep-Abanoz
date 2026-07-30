@@ -2,7 +2,7 @@
 
 🎓 I graduated from Ankara University with a Bachelor's degree in Actuarial Science.
 
-📍 Based in Bursa, Türkiye.
+📍 I live in Bursa, Türkiye.
 
 ## Current Skills
 
