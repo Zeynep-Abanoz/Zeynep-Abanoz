@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Zeynep Abanoz 👋
 
-<!--
-**Zeynep-Abanoz/Zeynep-Abanoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I graduated from Ankara University with a Bachelor's degree in Actuarial Science.
 
-Here are some ideas to get you started:
+📍 Based in Bursa, Türkiye.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Skills
+
+- R
+- SQL (Beginner)
+- Python (Beginner)
+- Microsoft Excel
+- Matlab (Beginner)
+
+## Contact
+
+💼 LinkedIn: www.linkedin.com/in/zeynep-abanoz-5a5b4b234
+
+📧 Email: zeynepab92@gmail.com
